@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tralha</title>
+
+    <link rel="stylesheet" href="tralha.css">
+</head>
+
+<body>
+    <main>     
+        <section class="boxes">    
+           <h1>Jogo da Velha</h1>
+                <div>
+                    <div class="box" id="1" onclick="pickBox(this.id)">-</div>
+                    <div class="box" id="2" onclick="pickBox(this.id)">-</div>
+                    <div class="box" id="3" onclick="pickBox(this.id)">-</div>
+                </div>
+            
+                <div>
+                    <div class="box" id="4" onclick="pickBox(this.id)">-</div>
+                    <div class="box" id="5" onclick="pickBox(this.id)">-</div>
+                    <div class="box" id="6" onclick="pickBox(this.id)">-</div>
+                </div>
+            
+                <div>
+                    <div class="box" id="7" onclick="pickBox(this.id)">-</div>
+                    <div class="box" id="8" onclick="pickBox(this.id)">-</div>
+                    <div class="box" id="9" onclick="pickBox(this.id)">-</div>
+                </div>
+        </section>
+
+        <section>
+            <div class="player">
+                <label for="Player">Player: </label>
+        
+                <label for="selected-player" id="selectedPlayer"></label>
+            </div>
+    
+            <div class="winner">
+                <label for="Winner">Winner: </label>
+        
+                <label for="Winner" id="selectedWinner"></label>
+            </div>
+        
+            <button>
+                Restart
+            </button>
+        </section>       
+    </main>
+
+    <script src="tralha.js"></script>
+</html>

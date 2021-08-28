@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/***** BASE ******************************************************** */
+main{
+    margin: 0 auto;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.box {
+    align-items: center;
+    width: 8rem;
+    background-color: #eee;
+    color:#eee;
+
+    display: inline-block; /* organizar em blocos */
+    padding: 2.5rem;
+    font-size: 3.7rem;
+    margin: 0.3rem;
+    
+    cursor: pointer;
+}
+
+h1, .player, .winner {
+    font-size: 1.8rem;
+    margin-top: 0.6rem;
+    margin-bottom: 0.6rem;
+}
+
+button {
+    margin-top: 0.6rem;
+    width: 6.25rem;
+    height: 1.8rem;
+    background-color: #eee;
+    cursor: pointer;
+}
