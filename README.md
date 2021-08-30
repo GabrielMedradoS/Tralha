@@ -2,7 +2,7 @@
   <img alt="imageTralha" src=".github/Tralha.png" width="80%">
 
 ### 💻 Projeto
-O projeto é um criar um Jogo da Velha usando as 3 linguaguens basicas HTML CSS JS 
+O projeto é criar um Jogo da Velha usando as 3 linguaguens basicas HTML CSS JS 
 
 A ideia é responder as perguntas em streams
 
