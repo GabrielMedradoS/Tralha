@@ -4,8 +4,6 @@
 ### 💻 Projeto
 O projeto é criar um Jogo da Velha usando as 3 linguaguens basicas HTML CSS JS 
 
-A ideia é responder as perguntas em streams
-
 ### 🛠 Tecnologias
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  height="30" width="40"/>
