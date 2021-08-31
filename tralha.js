@@ -98,9 +98,7 @@ function checkWinner() {
 function checkOrder(checkBox1, checkBox2, checkBox3) {
     let order = false;
 
-    if (checkBox1.innerHTML !== '-' && checkBox1.innerHTML === checkBox2.innerHTML && checkBox2.innerHTML === checkBox3.innerHTML) {
-        order = true;
-    }
+    (checkBox1.innerHTML !== '-' && checkBox1.innerHTML === checkBox2.innerHTML && checkBox2.innerHTML === checkBox3.innerHTML ? order = true : order = false)
 
     return order;
 }
