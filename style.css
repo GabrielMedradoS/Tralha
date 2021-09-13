@@ -40,3 +40,19 @@ button {
     background-color: #eee;
     cursor: pointer;
 }
+
+@media screen and (max-width: 992px) {
+    .box {
+        padding: 2rem;
+        font-size: 3rem;
+
+        width: 6rem;
+        height: 7rem;
+    }
+
+    h1, .player, .winner {
+        font-size: 1.8rem;
+        margin-top: 0.6rem;
+        margin-bottom: 0.6rem;
+    }
+}
