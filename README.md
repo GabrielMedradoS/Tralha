@@ -1,10 +1,10 @@
 ## Tralha
   <img alt="imageTralha" src=".github/Tralha.png" width="80%">
-
+  
 ### 💻 Projeto
 O projeto é criar um Jogo da Velha usando as 3 linguaguens basicas HTML CSS JS 
 
-Jogo para se divertir com os amigos
+Jogo para se divertir com os amigos https://tralha.netlify.app/ 
 ### 🛠 Tecnologias
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  height="30" width="40"/>
