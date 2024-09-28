@@ -2,7 +2,7 @@
 
 ### Layout 🚧
 <h1 align="center">
-  <img alt="imageTralha" src=".github/Tralha.png" width="80%">
+  <img alt="imageTralha" src=".github/github image.png" width="80%">
 </h1>
   
   <p align="center">
